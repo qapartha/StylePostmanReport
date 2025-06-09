@@ -1,3 +1,10 @@
+# API Report Studio — JSON to HTML Converter
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/qapartha-8960s-projects/v0-json-to-html-converter)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/SPrXkVgx7Jk)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
 ## 🔍 Overview
 
 **API Report Studio** is a free, open-source web app built using **AI-assisted tools** and modern front-end frameworks. It allows QA Engineers, API Developers, and DevOps teams to **convert raw Postman/Newman-style JSON test results into a polished, stakeholder-friendly HTML or PDF report** — in seconds.
